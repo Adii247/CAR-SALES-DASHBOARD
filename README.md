@@ -31,10 +31,7 @@ This Excel dashboard summarizes and visualizes key insights from a car sales dat
    - Number of cars sold by brand
    - Average selling price
    - Price variation by fuel type
-
-## 📷 Dashboard Preview
-
-*Add a screenshot of your dashboard here after uploading the project to GitHub.*
+     
 
 ## 📁 File Details
 
